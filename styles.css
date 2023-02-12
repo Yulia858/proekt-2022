@@ -1,0 +1,50 @@
+h2, h3 {
+    text-align: center;
+    }
+  
+  p, strong {
+    display: block;
+  }
+  .table_with_text_on_center {
+  text-align: center;
+  width: 100%;
+  }
+  .letter {
+    color:blueviolet;
+    font-family: cursive;
+  }
+  .sky {
+    color:aqua;
+    font-size: 200%;
+    font-family: system-ui;
+  }
+  .tet {
+    color:aquamarine;
+    background-color:blue;
+  }
+  .tady {
+    color:darkorchid;
+    font-weight: 500%;
+    font-style: oblique;
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
+  }
+  .lady {
+    color:fuchsia;
+    font-weight:700%;
+    font-style: italic;
+  }
+  .cofee {
+    background-color: darksalmon;
+  }
+  .cof {
+  background:chartreuse;
+  }
+  .xit {
+    background: aqua;
+  }
+  body {
+    background: rgb(142, 158, 165);
+   color: rgb(2, 0, 139);
+  }
+  
